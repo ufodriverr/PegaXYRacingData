@@ -15,7 +15,7 @@ Example of deserialization:
             }
         }
 ```
-What does 3000RacesCombine.dat has:
+What does 3000RacesCombineOrigStats.dat has:
 All races information starting from RaceID 31528961 to 31531965 with 
   * Stadium stat
   * Pega post calculated stats (stat used in race)
