@@ -5,7 +5,7 @@ Before using be sure to import Newtonsoft
 *.Dat files formates using Newtonsoft.Json.Bson
 Example of deserialization:
 ```
-        using (var fs = File.OpenRead( PATH TO 3000RacesCombine.dat FILE ))
+        using (var fs = File.OpenRead( PATH TO 3000RacesCombineOrigStats.dat FILE ))
         {
             using (var reader = new BsonReader(fs))
             {
