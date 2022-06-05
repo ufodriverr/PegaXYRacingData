@@ -1,3 +1,5 @@
+TYPO in dates. 04_06 is 03-06-2022, and 05_06 is 04-06-2022.
+
 # PegaXYRacingData
 
 Before using be sure to import Newtonsoft
